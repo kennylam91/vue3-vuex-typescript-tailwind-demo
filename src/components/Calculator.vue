@@ -19,7 +19,7 @@
     <div class="pl-20">
       <button
         type="submit"
-        class="border py-3 px-5 border-blue-600 border-solid rounded bg-blue-600 text-white hover:bg-blue-800 focus:bg-blue-800 focus:outline-none font-semibold">
+        class="btn-submit">
         Submit
         </button>
     </div>
